@@ -53,7 +53,7 @@ class Scrabble
 
 end
 
-p Scrabble.score('cabbage')
+# p Scrabble.score('cabbage')
 
 
 
