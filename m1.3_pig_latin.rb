@@ -63,4 +63,4 @@ class PigLatin
 end
 
 
-p PigLatin.translate('prapple')
+# p PigLatin.translate('prapple')
